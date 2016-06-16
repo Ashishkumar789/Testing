@@ -8,7 +8,7 @@
     controller.$inject = ['$scope']; 
 
     function controller($scope) {
-        $scope.title = 'controller 5 Master Branch';
+        $scope.title = 'controller 6 Master Branch';
 
         activate();
 
